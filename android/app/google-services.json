@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734388492801",
+    "firebase_url": "https://authentication-firebase-b4a83.firebaseio.com",
+    "project_id": "authentication-firebase-b4a83",
+    "storage_bucket": "authentication-firebase-b4a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734388492801:android:692a6a0e6c4548ec85be00",
+        "android_client_info": {
+          "package_name": "com.example.belajar_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734388492801-6lbkpimermcv2bcp2m4ljg81mg3adfiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtVHiSVxFnhLA-OPlR391w1sijLsmBXHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734388492801-6lbkpimermcv2bcp2m4ljg81mg3adfiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
